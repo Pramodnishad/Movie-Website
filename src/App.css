@@ -3,18 +3,11 @@ body {
   background-color: #f7fcfe;
 }
 
-h1 {
-  background-color: rgb(2, 2, 102);
-  color: rgb(240, 231, 231);
-  margin-top: 0;
-  padding: 20px;
-}
 .main{
   display: flex;
   justify-content: space-between;
   flex-wrap:wrap ;
-  padding: 1px;
-  
+  padding: 1px; 
 }
 .movies{
   background-color: rgb(95, 100, 100);
@@ -29,8 +22,6 @@ h1 {
 .movies img{
   width: 200px;
   height: 250px;
-  margin-top: 20px;
-  
-  
+  margin-top: 20px; 
 }
 
